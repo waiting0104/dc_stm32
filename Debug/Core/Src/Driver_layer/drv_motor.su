@@ -1,0 +1,4 @@
+drv_motor.c:9:6:Drv_Motor_Init	16	static
+drv_motor.c:25:6:Drv_Motor_ControlwithWheelVelocity	32	static
+drv_motor.c:49:6:Drv_Motor_ReadVelocity	32	static
+drv_motor.c:68:6:Drv_Motor_ReadPosition	16	static
